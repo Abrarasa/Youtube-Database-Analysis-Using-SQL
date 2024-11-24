@@ -47,4 +47,4 @@ Possible avenues for future exploration or enhancements to the SQL analysis can 
 Any acknowledgments or credits for databases, datasets, or inspiration used in the analysis.
 
 ## Contact
-Email - abrarasa458@gmail.com LinkedIn - https://www.linkedin.com/in/abrar-syed-772703254/
+Email - syedabrar.ds@gmail.com LinkedIn - https://www.linkedin.com/in/abrar-syed-772703254/
